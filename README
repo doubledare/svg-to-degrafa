@@ -1,0 +1,11 @@
+SVG to Degrafa
+
+A library that parses SVG graphics files with the purpose of displaying
+them in the Flash player.
+
+No animation or interactivity is supported at this stage.
+
+Basic primitives and fills support is the initial goal.
+
+
+COMING SOON!!
